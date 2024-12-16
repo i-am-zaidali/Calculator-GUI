@@ -1,12 +1,15 @@
 # Calculator
 
 - WHAT?!? ANOTHER ONE?
+
 yes, yes another one.
 
 - WHY?
+
 why not?
 
 - Is it even any special?
+
 Perhaps. Here's a list of things it can do:
   - Beautiful GUI (yes, that's a feature)
     - ![img.png](img.png)
